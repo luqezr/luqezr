@@ -5,11 +5,13 @@
 
 ## 👨‍💻 About Me
 
-- 👋 Hi, I'm a tech enthusiast passionate about Linux and open source
-- 💼 Currently working as a Tech Delivery Lead and build fullstack application (JS)
+- 👋 Hi, I'm a tech enthusiast passionate about Linux and open source projects
+- 💼 Currently working as a Tech Delivery Lead and building fullstack application (JS)
 - 🛠️ I explore whatever sparks my curiosity—mostly applications and cybersecurity
-- 🔭 Developing a fullstack solution for tracking devices in large manufacturing sites (5000+ devices)
+- 🔭 I'm currently developing a fullstack solution for tracking devices in large manufacturing sites (5000+ devices)
 - 🚀 Always eager to learn and build; if I can't find what I need, I create it
+- 👾 Life-long gamer
+- 🖥️ I sit at work in front of a computer all day just to afford to sit at home in front of a computer all night.
 
 ## 🌐 Connect With Me
 <div align="center" style="display:flex;flex-wrap:wrap;justify-content:center;gap:15px">
