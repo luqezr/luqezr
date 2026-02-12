@@ -49,41 +49,14 @@
 ## 🖥️ OS / OS RELATED
 
 <p align="center" style="display:flex;justify-content:center;flex-wrap:wrap;margin:0;padding:0">
-    <img src="https://skillicons.dev/icons?i=
-arch,
-kali,
-debian,
-ubuntu,
-linux,
-apple,
-windows,
-raspberrypi,
-arduino,
-bash,
-powershell
-" style="margin:0;padding:0"/>
+    <img src="https://skillicons.dev/icons?i=arch,kali,debian,ubuntu,linux,apple,windows,raspberrypi,arduino,bash,powershell" style="margin:0;padding:0"/>
 <img width="45" src="https://play-lh.googleusercontent.com/TT36Nsjyt0Yn8eyPAXuNK0bJsXmryP9ovsp7qdOy9sulYlr7v2Le5Ckf0I9S3AiaaXs=s256-rw" style="margin:0;padding:10px"/>
 </p>
 
 ## 🛠️ TECH STACK
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=js,
-html,
-bootstrap,
-css,
-angular,
-jquery,
-ts,
-electron,
-react,
-git,
-py,
-obsidian,
-express,
-mongodb,
-nodejs
-" style="margin:0;padding:0"/>
+    <img src="https://skillicons.dev/icons?i=js,html,bootstrap,css,angular,jquery,ts,electron,react,git,py,obsidian,express,mongodb,nodejs" style="margin:0;padding:0"/>
 </div>
 
 <div align="center" style="display:flex;justify-content:center;gap:0;margin:0;padding:0">
