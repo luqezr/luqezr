@@ -4,33 +4,33 @@
 
 #### [[root@arch ~]# whoami](https://readme-swatches.vercel.app/68fc1f)
 
-\>\_ self-taught tech enthusiast with 10+ years experience_
+[\>\_ ](https://readme-swatches.vercel.app/68fc1f)self-taught tech enthusiast with 10+ years experience_
 <br>
-\>\_  i sit at work in front of a computer all day just to afford to sit at home in front of a computer all night.
+[\>\_ ](https://readme-swatches.vercel.app/68fc1f) i sit at work in front of a computer all day just to afford to sit at home in front of a computer all night.
 <br>
-\>\_  currently working as a Tech Delivery Lead and building fullstack application (JS) or other digitalization tools (PowerApps & PowerAutomate)
+[\>\_ ](https://readme-swatches.vercel.app/68fc1f) currently working as a Tech Delivery Lead and building fullstack application (JS) or other digitalization tools (PowerApps & PowerAutomate)
 <br>
-\>\_  curious about: hardware, open source tools, cybersecurity
+[\>\_ ](https://readme-swatches.vercel.app/68fc1f) curious about: hardware, open source tools, cybersecurity
 <br>
-\>\_  current project: Building a fullstack solution for tracking 5000+ manufacturing devices
+[\>\_ ](https://readme-swatches.vercel.app/68fc1f) current project: Building a fullstack solution for tracking 5000+ manufacturing devices
 <br>
-\>\_  always eager to learn and build; if I can't find what I need, I'll create it
+[\>\_ ](https://readme-swatches.vercel.app/68fc1f) always eager to learn and build; if I can't find what I need, I'll create it
 <br>
-\>\_  gaming enthusiast
+[\>\_ ](https://readme-swatches.vercel.app/68fc1f) gaming enthusiast
 <br>
-\>\_  good for health, bad for education
+[\>\_ ](https://readme-swatches.vercel.app/68fc1f) good for health, bad for education
 
 ####  [[root@arch ~]# whereis my_projects](https://readme-swatches.vercel.app/68fc1f)
 
-\>\_  [Yu-Gi-Oh! Tracker](http://yugiohtracker.com) – find all your cards
+[\>\_ ](https://readme-swatches.vercel.app/68fc1f) [Yu-Gi-Oh! Tracker](http://yugiohtracker.com) – find all your cards
 <br>
-\>\_  [NetLens](https://github.com/luqezr/NetLens) – find what's on your network
+[\>\_ ](https://readme-swatches.vercel.app/68fc1f) [NetLens](https://github.com/luqezr/NetLens) – find what's on your network
 <br>
-\>\_  [Personal Webpage](http://lucaskovacs.com) – experimental analog photography
+[\>\_ ](https://readme-swatches.vercel.app/68fc1f) [Personal Webpage](http://lucaskovacs.com) – experimental analog photography
 <br>
-\>\_  [Instagram](https://www.instagram.com/swalbr) - check some photos
+[\>\_ ](https://readme-swatches.vercel.app/68fc1f) [Instagram](https://www.instagram.com/swalbr) - check some photos
 <br>
-\>\_  [Behance](https://www.behance.net/swalbr?) - check visual projects
+[\>\_ ](https://readme-swatches.vercel.app/68fc1f) [Behance](https://www.behance.net/swalbr?) - check visual projects
 
 #### [[root@arch ~]# journalctl -xe](https://readme-swatches.vercel.app/68fc1f) 
 
